@@ -2,6 +2,8 @@
 
 A personal essay and visual concept for the Codédex October Monthly Challenge.
 
+<img width="1915" height="968" alt="Screenshot 2026-10-08 000428" src="https://github.com/user-attachments/assets/4f4f31ef-0865-4d64-91a2-317eb7ad765d" />
+
 ## Concept
 
 This site explores my habit of saving everything online — AI reels, GitHub repositories, research papers, job opportunities, design inspiration, DIY ideas, and project ideas — and imagines a personal, Y2K-inspired "digital junk drawer" to keep them in one place.
