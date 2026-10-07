@@ -1,2 +1,22 @@
-# digital-junk-drawer
-My digital junk drawer — an interactive companion to my Codédex October 2026 blog post
+# ♡ I Save Everything — My Digital Junk Drawer
+
+A personal essay and visual concept for the Codédex October Monthly Challenge.
+
+## Concept
+
+This site explores my habit of saving everything online — AI reels, GitHub repositories, research papers, job opportunities, design inspiration, DIY ideas, and project ideas — and imagines a personal, Y2K-inspired "digital junk drawer" to keep them in one place.
+
+The bookmark application shown on the site is a **concept/mockup**, not a finished product.
+
+## Run locally
+
+Open `index.html` in a browser, or use a local development server such as VS Code Live Server.
+
+## GitHub Pages
+
+1. Create a GitHub repository.
+2. Upload `index.html`, `style.css`, `script.js`, and the `assets` folder.
+3. Go to **Settings → Pages**.
+4. Under **Build and deployment**, choose **Deploy from a branch**.
+5. Select the `main` branch and `/ (root)`.
+6. Save and wait for GitHub Pages to publish the site.
